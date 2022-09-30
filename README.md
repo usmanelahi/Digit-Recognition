@@ -1,6 +1,6 @@
 # Digit-Recognition-using-Perceptron
 
-- Digit Recognition Algorithm built using pandas and numpy
+- Digit Recognition Algorithm built using perceptron learning and back propagation
 - Install the version of numpy by using the following command:
 
         pip install -U numpy==1.11.0
